@@ -7,11 +7,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.4.0",
     "preact": "^10.5.15",
-    "react-router-dom": "^6.2.1"
+    "preact-compat": "^3.19.0",
+    "preact-router": "^4.0.1",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.1.5",
+    "customize-cra": "^1.0.0",
+    "react-app-rewired": "^2.1.11",
     "vite": "^2.7.2"
   }
 }
