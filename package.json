@@ -19,6 +19,8 @@
     "@preact/preset-vite": "^2.1.5",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.1.11",
+    "sass": "^1.49.7",
+    "sass-loader": "^12.4.0",
     "vite": "^2.7.2"
   }
 }
